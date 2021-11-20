@@ -18,3 +18,4 @@ public class Player {
         return vehicleType;
     }
 }
+
